@@ -77,7 +77,7 @@ Some potential use cases you can do using elasticsearch and Dendron:
 - filter your notes by any logical combination of custom attributes
 - make a heatmap of notes created by date
 - get a full list of tags used across your vault and on a per hierarchy basis
-- anything else you can thin of :) 
+- anything else you can think of :) 
 
 Some useful additional links: 
 - [elasticsearch docs](https://www.elastic.co/guide/en/elasticsearch/reference/current/elasticsearch-intro.html)
